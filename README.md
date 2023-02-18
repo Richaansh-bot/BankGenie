@@ -9,19 +9,17 @@ The application leverages OpenAI APIs to extract meaning from text and analyze t
 
 The application is built using Python and Django on the backend, and React on the frontend. The backend processes the bank statement data and makes use of several tools, such as PolarDB, to handle the large amounts of data. The frontend provides a user-friendly interface for users to interact with the application and view the insights generated.
 
-Some of the key features of BankGenie include:
+#### Some of the key features of BankGenie include:
 
 -   Extraction of transaction descriptions and analysis of spending categories
--   Calculation of average spending, total investment, and other key metrics
--   Sentiment analysis of transaction descriptions
--   Prediction of future behavior based on past data
--   Uploading bank statements
 -   Extraction of transaction descriptions from narration
+-   Calculation of average spending, total investment, and other key metrics
 -   Categorization of transactions
--   Sentiment analysis of transactions
+-   Sentiment analysis of transactions descriptions
+-   Prediction of future behavior based on past data
 -   Summary of spending, saving, and investment behavior
 -   Prediction of future behavior based on past data
-The application is open-source and licensed under the [insert your chosen license here] license.
+The application is open-source and licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
 
 ## Installation and Usage
 
