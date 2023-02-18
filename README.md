@@ -19,6 +19,7 @@ The application is built using Python and Django on the backend, and React on th
 -   Prediction of future behavior based on past data
 -   Summary of spending, saving, and investment behavior
 -   Prediction of future behavior based on past data
+
 The application is open-source and licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
 
 ## Installation and Usage
