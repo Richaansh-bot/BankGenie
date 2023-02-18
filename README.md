@@ -28,11 +28,11 @@ The application is open-source and licensed under the [insert your chosen licens
 🥱
 
 ## Contributing
-
 🥱
 
-## Credits
-
-🥱
+## Team Members
+[<img alt="Kartik Dhawaniya" width="40px" src="https://avatars.githubusercontent.com/u/82313929?v=4" />](https://github.com/KartikDhawaniya) 
+[<img alt="Richansh Gour" width="40px" src="https://avatars.githubusercontent.com/u/82725802?v=4" />](https://github.com/Richaansh-bot) 
 
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
