@@ -30,7 +30,7 @@ The application is open-source and licensed under the [![License: MIT](https://i
 🥱
 
 ## Team Members
-[<img alt="Kartik Dhawaniya" width="40px" src="https://avatars.githubusercontent.com/u/82313929?v=4" />](https://github.com/KartikDhawaniya) 
+[<img alt="Whizz" width="40px" src="https://avatars.githubusercontent.com/u/82313929?v=4" />](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif) 
 [<img alt="Richansh Gour" width="40px" src="https://avatars.githubusercontent.com/u/82725802?v=4" />](https://github.com/Richaansh-bot) 
 
 ## License
